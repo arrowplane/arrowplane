@@ -4,7 +4,6 @@ Hello! My name is **Michael**, but I go by **arrowplane** online.
 
 ### 🎮 **Gaming**:
 - Peak **600** in **Valorant**.
-- Passionate about competitive gaming and improving skills.
 
 ### 👨‍💻 **Programming**:
 - 8 years of experience. Fluent in:
@@ -28,7 +27,7 @@ Hello! My name is **Michael**, but I go by **arrowplane** online.
 
 ### 💡 **Hobbies & Interests**:
 - Tech innovation & building cool projects.
-- Photography (check out my Instagram portfolio).
+- Photography (check out my Instagram @arrowplane_photos)
 - Exploring new programming languages & frameworks.
 
 ### 🏆 **Achievements**:

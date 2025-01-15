@@ -8,5 +8,11 @@ Hello! My name is **Michael**, but I go by **arrowplane** online.
   - CSS
   - JavaScript
   - Python
+- 📚 **Currently Learning**:
+  - Go
+  - C#
+  - C++
+  - Lua
+  - Java
 - ✈️ **Aviation Enthusiast**: Currently training for a **Private Pilot’s License (PPL)** in **Canada**.
 - 🏙️ **Location**: Vancouver, **BC**, **Canada**.

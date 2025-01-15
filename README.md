@@ -1,7 +1,12 @@
-- Hello! My name is Michael, I'm known as **arrowplane** online.
-- I've been a programmer for 8 years(: I know fluent html, css, js and python.
-- I'm an aviation geek, training for a PPL (Private Pilots License) In canada.
-- I live in Vancouver BC.
-- peak 600 in valorant
+## About Me
 
-  
+Hello! My name is **Michael**, but I go by **arrowplane** online.
+
+- 🎮 **Gaming**: Peak **600** in Valorant.
+- 👨‍💻 **Programming**: 8 years of experience. Fluent in:
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+- ✈️ **Aviation Enthusiast**: Currently training for a **Private Pilot’s License (PPL)** in **Canada**.
+- 🏙️ **Location**: Vancouver, **BC**, **Canada**.

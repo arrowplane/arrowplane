@@ -30,7 +30,8 @@ Hello! My name is **Michael**, but I go by **arrowplane** online.
 - Photography (check out my Instagram @arrowplane_photos)
 - Exploring new programming languages & frameworks.
 
-### 🏆 **Achievements**:
+### 🏆 **things ive done?**:
 - **SKILLS CANADA 2025** participant, competing in **Saskatchewan** (February).
 - **Photography Portfolio** on Instagram.
-
+- **Edited** For DuperTrooper on YouTube
+- **Developed** RoyalG's Management Bot on **Discord** *For the YouTuber RoyalG)
